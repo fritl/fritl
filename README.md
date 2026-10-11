@@ -8,7 +8,7 @@ I build projects for learning purposes. I also like hardware, firmware and low-l
 
 **Projects**
 - **[Neurorust:](https://github.com/fritl/neurorust)** A neural network written with _rust_ and _wgpu_. It runs in the browser with _WebAssembly_
-- **[MAST:](https://github.com/fritl/mast)** A parser for math expressions. It uses _FastAPI_and has its own frontend where you can differentiate, evaluate or simplify the expressions.
+- **[MAST:](https://github.com/fritl/mast)** A parser for math expressions. It uses _FastAPI_ and has its own frontend where you can differentiate, evaluate or simplify the expressions.
 
 **Tools**
 - Languages: _Python_, _Rust_, _TypeScript_, _SQL_
