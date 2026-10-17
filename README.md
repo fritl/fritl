@@ -1,6 +1,6 @@
 # Hi, I am Lukas
 
-<img align="right" src="./assets/logo_anim.webp" alt="Logo animation" width="300">
+<img align="right" src="./assets/logo_anim.webp" alt="Logo animation" width="35%">
 
 I build projects for learning purposes. I also like hardware, firmware and low-level programming.
 
